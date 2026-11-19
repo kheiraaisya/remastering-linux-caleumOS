@@ -17,3 +17,6 @@ copy /b CaelumOS.iso.part-00+CaelumOS.iso.part-01+CaelumOS.iso.part-02+CaelumOS.
 
 ### Login screen
 ![CaelumOS login screen](screenshots/caelumos-login.png)
+
+### Desktop
+![CaelumOS desktop](screenshots/caelumos-desktop.png)
